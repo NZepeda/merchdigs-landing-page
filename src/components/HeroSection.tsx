@@ -20,12 +20,13 @@ export const HeroSection = () => {
         {/* Main Headlines */}
         <div className="mb-12 space-y-4">
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-charcoal leading-tight">
-            A better marketplace
+            The marketplace
             <br />
             <span className="text-slate-dark">for music fans.</span>
           </h2>
           <p className="text-xl md:text-2xl text-slate max-w-2xl mx-auto leading-relaxed">
-            Buy and sell band merch and records — made for real fans.
+            Buy, sell, and discover rare merch, collectibles, and vinyl—direct
+            from fans.
           </p>
         </div>
 

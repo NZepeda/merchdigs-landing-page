@@ -28,7 +28,7 @@ export const Nav = () => {
           <img
             src="/logo.png"
             alt="Merchdigs"
-            className="h-4 w-auto max-w-[120px]"
+            className="h-4 w-auto max-w-[140px]"
           />
         </div>
 
